@@ -1,0 +1,15 @@
+{
+  "name": "bangalore-pincode-explorer",
+  "version": "1.0.0",
+  "description": "Explore Bangalore pincodes with area names and interactive maps",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd api && node index.js",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "install:all": "npm install && cd api && npm install && cd ../client && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
