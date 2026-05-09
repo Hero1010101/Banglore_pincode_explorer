@@ -10,6 +10,10 @@
 
 ---
 
+## *Note
+These webapp is built by Harsh Hate. The sole purpose of this app is to showcase my programming skills.
+This full-stack web app is based on MERN stack. In which I have used AI tool for backend development whereas, all frontend is done by me.
+
 ## ✨ Features
 
 - **Pincode Lookup** — Enter any Bangalore pincode (560xxx) and instantly get area details
@@ -245,12 +249,6 @@ Contributions are welcome! To add more pincode data or improve boundary accuracy
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 ## 🙏 Acknowledgements
 
 - [OpenStreetMap](https://www.openstreetmap.org/) contributors
@@ -260,4 +258,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-<p align="center">Built with ♥ for Bangalore</p>
+<p align="center">The above whole app is for demo purpose of my skills</p>
